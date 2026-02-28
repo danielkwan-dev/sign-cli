@@ -78,13 +78,9 @@ python inference.py --model models/asl_model.pth --hold-time 1.5 --camera 0
 - `--hold-time`: Seconds to hold pose before confirming (default: 2.0)
 - `--camera`: Camera ID if you have multiple webcams (default: 0)
 
-
-
-
-
 ## Controls
 
-- **Hold a sign** for 2 seconds to confirm the letter
+- **Using your right hand, put up an ASL alphabet hand sign** for 2 seconds to confirm the letter
 - **Press `c`** (in inference mode) to clear text
 - **Press `q`** to quit
 
