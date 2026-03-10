@@ -13,14 +13,14 @@ An American Sign Language recognition engine that works in real-time by using tw
 
 ## Features
 
-- Real-time hand tracking with MediaPipe
+- Real-time hand tracking with MediaPipe 
 - ASL alphabet recognition (A-Z, plus delete, space, nothing)
 - Structured lessons with a learning path ranging from "Basics" to "Advanced"
 - User Profiles: Create accounts, save progress, track statistics via a local database using SQL
 - The app automatically detects which letters you struggle with and focuses on practicing them
 - Earn XP by holding correct signs and maintain daily streaks to stay motivated!
 - Hold-to-confirm system for accurate letter input
-- Build words and sentences by signing letters
+- Build words and sentences by signing (make letters, spaces, etc.)
 
 
 ## Project Structure
